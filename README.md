@@ -286,6 +286,7 @@ products.html
     </footer>
 </html>
 
+
 about.html
 <html>
 <title>about us</title>
@@ -388,10 +389,10 @@ about.html
     <P>PRIYADHARSHINI.E</P>    
     <P style="margin-left:-20;">MR jimin</P>    
     <P>MR jhope</P>    
-    <P>MR Kim Taeyoung </P>    
+    <P>MR V </P>    
     <P>MR jungkook</P>    
-    <P>MR Kim Seokjin</P>    
-    <P>MR Namjoon/P>    
+    <P>MR jin</P>    
+    <P>MR Namjoon</P>    
 </div>
 <DIV class="position">
     <p>FOUNDER </p>
@@ -404,7 +405,7 @@ about.html
 
 </DIV>
 </body>
-<footer style="background-color:darkmagenta;margin-top: 143; border: none;">
+<footer style="background-color:darkmagenta;margin-top: 143; border:black;">
     <P style="color:#ffffff; ;"align="center">Designed by Priya Dharshini E </P>
 </footer>
 </html>
@@ -732,7 +733,7 @@ border:2px solid rgba(114, 0, 0, 0.628)8, 32, 32);
 ## OUTPUT:
 <img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/e1c07c15-5c52-4327-9fb3-13d1ed16706f">
 <img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/90f3c9ba-818c-48f6-b5fe-3cc44e863d05">
-<img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/a470db70-fcfd-4205-aae3-26dcfa2964a1">
+<img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/1243d011-b6e2-4f3d-b2cc-03e2ba5d44bc">
 <img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/7270b1fe-0d5b-4290-9fbe-82963e01b15e">
 <img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/d4b32cd7-0ff9-4d09-b679-bc8ab9cb7a5c">
 
