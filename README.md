@@ -1,6 +1,6 @@
 # Ex.07 Software Product Company Website
 ## Date:
-
+19/12/2023
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
 
@@ -203,7 +203,6 @@ mainpage.html
 </footer>
 </html>
 
-
 products.html
 <html>
     <title>valueable products</title>
@@ -287,17 +286,128 @@ products.html
     </footer>
 </html>
 
+about.html
+<html>
+<title>about us</title>
+<style>
+    p{
+        color: antiquewhite;
+    }
+    body{
+        background:url(bg1.jpg);
+        background-size: cover;
+    }
+    .styled form {
+            margin margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .styled [type="button"] {
+            padding: 10px 20px; /* button size */
+            background-color: #3498db; /* initial background color */
+            color: #ffffff; /*initial text color */
+            border: none;
+            transition: background-color 0.3s, color 0.3s; /*smooth transition */
+        }
+        .styled [type="button"]:hover {
+            background-color:purple; /*background color on hover */
+            color:aliceblue; /*text color on hover */
+        }
+        .styled [type="submit"] {
+            border-radius: 10px;
+            padding: 5px 10px; /* button size */
+            background-color: #3498db; /* initial background color */
+            color: #ffffff; /*initial text color */
+            border: none;
+            transition: background-color 0.3s, color 0.3s; /*smooth transition */
+        }
+        .styled [type="submit"]:hover {
+            background-color:purple; /*background color on hover */
+            color:#ffffff; /*text color on hover */
+        }
+        .styled [type="text"] {
+            margin-left: 500px;
+            transition: background-color 0.3s; 
+            background-color:bisque;
+        }
+        .styled input[type="text"]:focus {
+    /* Change background color when input is focused */
+    background-color:rgb(224, 127, 224); /* Adjust the color as needed */
+}
+.photos{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+.names{
+    display:flex;
+    justify-content: space-around;
 
+}
+.position {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    border-image:5px;
+    border-image: antiquewhite;
+}
 
+</style>
+<body>
+    <form class="styled ">
+        <div class=>
+            <a href="mainpage.html">
+                <input type="button" value="HOME">
+            </a>
+            <a href="products.html">
+                <input type="button" value="OUR PRODUCTS">
+            </a>
+            <a href="about.html">
+                <input type="button" value="ABOUT US">
+            </a>
+            <a href="sign.html">
+                <input type="button" value="SIGN IN">
+            </a>
+            <a href="contact.html">
+                <input type="button" value="CONTACT">
+            </a>  
+            <input type="text">
+            <input type="submit"value="SEARCH">  
+        </div>
+    </form>
+    <div class="photos">
+    <img src="my1.jpg" height="200" width="180">
+    <img src="jimin.jpg" height="200" width="200">
+    <img src="jhope.jpg" height="200" width="200">
+    <img src="about3.jpg" height="200" width="200">
+    <img src="about 4.jpg" height="200" width="200">
+    <img src="about5.jpg" height="200" width="200">
+    <img src="about last 6.jpg" height="200" width="200">
+</div>
+<div CLASS="names">
+    <P>PRIYADHARSHINI.E</P>    
+    <P style="margin-left:-20;">MR jimin</P>    
+    <P>MR jhope</P>    
+    <P>MR Kim Taeyoung </P>    
+    <P>MR jungkook</P>    
+    <P>MR Kim Seokjin</P>    
+    <P>MR Namjoon/P>    
+</div>
+<DIV class="position">
+    <p>FOUNDER </p>
+    <p style="margin-left:40;">CEO </p>
+    <p style="margin-left:60;">CO-FOUNDER </p>
+    <p>CO-FOUNDER </p>
+    <p>DIRECTOR </p>
+    <p >CO-DIRECTOR</p>
+    <p>EXEC-DIRECTOR </p>
 
-
-
-
-
-
-
-
-
+</DIV>
+</body>
+<footer style="background-color:darkmagenta;margin-top: 143; border: none;">
+    <P style="color:#ffffff; ;"align="center">Designed by Priya Dharshini E </P>
+</footer>
+</html>
 
 sign.html
 <!DOCTYPE html>
@@ -622,7 +732,7 @@ border:2px solid rgba(114, 0, 0, 0.628)8, 32, 32);
 ## OUTPUT:
 <img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/e1c07c15-5c52-4327-9fb3-13d1ed16706f">
 <img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/90f3c9ba-818c-48f6-b5fe-3cc44e863d05">
-
+<img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/a470db70-fcfd-4205-aae3-26dcfa2964a1">
 <img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/7270b1fe-0d5b-4290-9fbe-82963e01b15e">
 <img width="960" alt="image" src="https://github.com/EPriyadharshini/softweb/assets/144870831/d4b32cd7-0ff9-4d09-b679-bc8ab9cb7a5c">
 
